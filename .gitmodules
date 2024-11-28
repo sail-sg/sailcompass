@@ -1,0 +1,6 @@
+[submodule "opencompass"]
+	path = opencompass
+	url = https://github.com/open-compass/opencompass
+[submodule "rouge"]
+	path = rouge
+	url = https://github.com/pltrdy/rouge
