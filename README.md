@@ -4,6 +4,8 @@ In this work, we present SailCompass, a comprehensive suite of evaluation script
 
 SailCompass encompasses three major SEA languages and covers eight primary tasks using 14 datasets, spanning three task types: generation, multiple-choice questions, and classification.
 
+Please refer to [SailCompass Paper]( https://arxiv.org/pdf/2412.01186) for more details.
+
 ### Environment Setup
 
 We use [OpenCompass](https://github.com/open-compass/opencompass) to evaluate the models. To install the required packages, run the following command under this folder:
